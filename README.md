@@ -20,14 +20,11 @@
 ![Gimp](https://raw.githubusercontent.com/fbandeirac/fbandeirac/master/icons/gimp.png "Gimp")
 ![Linux Mint](https://raw.githubusercontent.com/fbandeirac/fbandeirac/master/icons/lmint.png "Linux Mint")
 
-### Ping me at
+### Find me at
 
 [![LinkedIn](https://raw.githubusercontent.com/fbandeirac/fbandeirac/master/icons/linkedin.png "LinkedIn Profile")](https://www.linkedin.com/in/fbandeirac)
 [![Twitter](https://raw.githubusercontent.com/fbandeirac/fbandeirac/master/icons/twitter.png "Twitter Profile")](https://www.twitter.com/real_stone)
-[![Instagram](https://raw.githubusercontent.com/fbandeirac/fbandeirac/master/icons/instagram.png "Instagram Profile")](https://www.instagram.com/fbandeirac)
 
-### More stuff
-
-[Blog 📰](https://bandblog.netlify.app/)
+[Blog 📰](https://stoneworks.dev/)
 
 [Resume 📄](https://fbandeirac.github.io/)
