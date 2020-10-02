@@ -1,7 +1,7 @@
 ## Hello! I'm Felipe, aka Stone or Band 🖖
 
 ### Quick intro
-- Fullstack Developer, currently focused in Node, React and UX 👨‍💻
+- Fullstack Developer 👨‍💻
 - Very curious, enjoy learning new things everyday 📖
 - Father of three amazing kids 🚸
 - Husband of a super talented [baker](https://deulicias.com) 🍰 💝
