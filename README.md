@@ -26,8 +26,8 @@
 ![Docker](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/docker.png "Docker")
 ![Linux Mint](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/lmint.png "Linux Mint")
 
-### Find me at
+### More at
 
 [![LinkedIn](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/linkedin.png "LinkedIn Profile")](https://www.linkedin.com/in/fbandeirac)
 
-[Resume 📄](https://fbandeirac.github.io/)
+[Online Resume 📄](https://fbandeirac.github.io/)
