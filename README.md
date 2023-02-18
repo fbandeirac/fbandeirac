@@ -21,4 +21,4 @@ I'm a softwre engineer whi embraces the continuous process of learning and impro
 ### Contact
 
 [![LinkedIn](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/linkedin.png "LinkedIn Profile")](https://www.linkedin.com/in/fbandeirac)
-[![Portfolio](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/portfolio.png "Portfolio")](https://www.github.com/fbandeirac)
+[![Portfolio](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/portfolio.png "Portfolio")](https://fbandeirac.github.io)
