@@ -1,24 +1,38 @@
-## Hello! I'm Felipe, aka Stone or Bandeira 🖖
+## 👾 Hey! So... this is my profile so let me tell you something...
 
-I'm a softwre engineer whi embraces the continuous process of learning and improvement, so the list below is probably somewhat outdated. 
+## 🚀 ... about me
+I'm Felipe Bandeira, a backend/mobile developer from Brazil.
 
-### Languages and Tools
+## 🧙‍♂️ ... about technologies & tools
 
-![Java](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/java.png "Java")
+Currently, my main stack is:
+
+Kotlin (Ktor), Python (Flask, PySimpleGui), Android, Docker, SQL, Ubuntu, Jetbrains IDEs.
+
 ![Kotlin](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/kotlin.png "Kotlin")
 ![Python](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/python.png "Python")
-![Spring](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/spring.png "Spring")
 ![Android](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/android.png "Android")
-![GatsbyJS](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/gatsbyjs.png "GatsbyJS")
-![Gimp](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/gimp.png "Gimp")
-![GraphQl](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/graphql.png "GraphQl")
-![PostgreSQL](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/postgres.png "PostgreSQL")
 ![Docker](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/docker.png "Docker")
-![Linux Mint](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/lmint.png "Linux Mint")
 ![IntelliJ](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/intellij.png "IntelliJ")
-![WebStorm](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/webstorm.png "WebStorm")
 
-### Contact
 
-[![LinkedIn](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/linkedin.png "LinkedIn Profile")](https://www.linkedin.com/in/fbandeirac)
-[![Portfolio](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/portfolio.png "Portfolio")](https://fbandeirac.github.io)
+I've worked with:
+
+Java (Spring), GatsbyJS, GraphQl, Windows, VSCode.
+
+![Java](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/java.png "Java")
+![Spring](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/spring.png "Spring")
+![GatsbyJS](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/gatsbyjs.png "GatsbyJS")
+![GraphQl](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/graphql.png "GraphQl")
+
+## 🔭 ... recent projects
+[Sete Chaves](https://github.com/fbandeirac/setechaves_api)
+ Web app where people can share their secrets anonymously.
+
+## ... how to contact me
+
+[LinkedIn](https://www.linkedin.com/in/fbandeirac)
+
+[Portfolio](https://fbandeirac.github.io)
+
+## and that's it! 🚀
