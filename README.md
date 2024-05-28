@@ -1,13 +1,18 @@
-## 👾 Hey! So... this is my profile so let me tell you something...
+## 👾 Hey! So... this is my profile, so let me tell you something...
 
 ## 🚀 ... about me
-I'm Felipe Bandeira, a backend/mobile developer from Brazil.
+I'm Felipe Bandeira, an unconventional backend/mobile developer from Brazil.
 
 ## 🧙‍♂️ ... about technologies & tools
 
 Currently, my main stack is:
 
-Kotlin (Ktor), Python (Flask, PySimpleGui), Android, Docker, SQL, Ubuntu, Jetbrains IDEs.
+- Kotlin + Ktor: for mobile and backend, multiplatform is on my radar
+- Python + Flask & PySimpleGui: building web and desktop apps, also playing a bit with ML
+- Docker: because container is life
+- SQL: PostgreSQL, MySQL, SQLite
+- Ubuntu: my main OS for work and personal use
+- Jetbrains IDEs: love how easy it is to work with them out of the box
 
 ![Kotlin](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/kotlin.png "Kotlin")
 ![Python](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/python.png "Python")
@@ -18,16 +23,20 @@ Kotlin (Ktor), Python (Flask, PySimpleGui), Android, Docker, SQL, Ubuntu, Jetbra
 
 I've worked with:
 
-Java (Spring), GatsbyJS, GraphQl, Windows, VSCode.
+- Java + Spring: teacher of some serious web development
+- GatsbyJS: fun times building static websites
+- GraphQl: not much, but I like it
+- Windows: from 95 to 10, passing through a few server editions
+- vscode: it's great, but not my favorite
 
 ![Java](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/java.png "Java")
 ![Spring](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/spring.png "Spring")
 ![GatsbyJS](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/gatsbyjs.png "GatsbyJS")
 ![GraphQl](https://raw.githubusercontent.com/fbandeirac/fbandeirac/main/icons/graphql.png "GraphQl")
 
-## 🔭 ... recent projects
+## 🔭 ... personal projects
 [Sete Chaves](https://github.com/fbandeirac/setechaves_api)
- Web app where people can share their secrets anonymously.
+ Web app where people can share their secrets anonymously. Built with Kotlin, Ktor, and PostgreSQL.
 
 ## ... how to contact me
 
